@@ -163,7 +163,7 @@ export default function Contact() {
                 href="https://api.whatsapp.com/send?phone=5493816520271&text=Hola!! Estoy interesado en sus servicios"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="flex items-center justify-center bg-green-600 hover:bg-green-700 text-white py-3 px-6 rounded-lg transition-colors"
+                className="flex items-center rounded-[10px] justify-center bg-green-600 hover:bg-green-700 text-white py-3 px-6 rounded-lg transition-colors"
               >
                 <MessageSquare className="mr-2 h-5 w-5" />
                 WhatsApp
